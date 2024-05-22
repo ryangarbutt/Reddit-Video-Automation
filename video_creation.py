@@ -7,7 +7,7 @@ import os
 import random
 
 
-aai.settings.api_key = "a54bb014271a4547b48d73d132073d83"
+aai.settings.api_key = "assembly ai api key goes here"
 
 # import os
 # os.environ["IMAGEMAGICK_BINARY"] = r"C:\Program Files\ImageMagick-7.1.1-Q16-HDRI"
